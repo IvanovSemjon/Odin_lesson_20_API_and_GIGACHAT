@@ -1,0 +1,5 @@
+langchain>=0.3.25
+langchain-gigachat>=0.3.10
+fastapi
+python-multipart
+uvicorn
