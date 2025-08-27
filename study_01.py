@@ -22,7 +22,7 @@ app = FastAPI()
 model = GigaChat(
     model="Gigachat-2-Max",                          # Используемая модель
     verify_ssl_certs=False,                          # Отключение проверки SSL сертификатов
-    credentials='ZGMxZTMyYWEtMTgyZC00NzI0LWI1ZDktMDk3MTE0ODgxMGY4OjcxODZmZmM3LTA1MTQtNDJkNi1hMjNmLWI5OTUxZTg1OTk1MA=='  # API ключ
+    credentials='xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'  # API ключ
 )
 
 # Эндпоинт для загрузки и обработки изображений

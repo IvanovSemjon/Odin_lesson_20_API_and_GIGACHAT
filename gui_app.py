@@ -12,7 +12,7 @@ class CompanyInfoApp:
         self.model = GigaChat(
             model="Gigachat-2-Max",
             verify_ssl_certs=False,
-            credentials='ZGMxZTMyYWEtMTgyZC00NzI0LWI1ZDktMDk3MTE0ODgxMGY4OjcxODZmZmM3LTA1MTQtNDJkNi1hMjNmLWI5OTUxZTg1OTk1MA=='
+            credentials='xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
         )
         
         self.company_data = {}
